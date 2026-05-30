@@ -7,7 +7,7 @@
     </ownedViews>
     <ownedViews xmi:type="viewpoint:DView" uid="_DpIw0FLrEfGLEpys3fKMLQ">
       <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']"/>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_DqD94FLrEfGLEpys3fKMLQ" name="Requirements Diagram" repPath="#_Dpc54FLrEfGLEpys3fKMLQ" changeId="1779277122193">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_DqD94FLrEfGLEpys3fKMLQ" name="Requirements Diagram" repPath="#_Dpc54FLrEfGLEpys3fKMLQ" changeId="1780175054535">
         <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']"/>
         <target xmi:type="sysadl:Model" href="HotelAccessSystem.sysadl#/"/>
       </ownedRepresentationDescriptors>
@@ -37,7 +37,7 @@
         <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']"/>
         <target xmi:type="sysadl:Package" href="HotelAccessSystem.sysadl#//@packages[name='HotelAccessSystemComponents']"/>
       </ownedRepresentationDescriptors>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_Ec394lodEfG_L_83WLOpSQ" name="Internal Block Diagram (Structural IBD)" repPath="#_Ec394FodEfG_L_83WLOpSQ" changeId="1779926933612">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_Ec394lodEfG_L_83WLOpSQ" name="Internal Block Diagram (Structural IBD)" repPath="#_Ec394FodEfG_L_83WLOpSQ" changeId="1780174607623">
         <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.IBD']"/>
         <target xmi:type="sysadl:Configuration" href="HotelAccessSystem.sysadl#//@packages[name='HotelAccessSystemComponents']/@definitions[name='HotelAccessSystemCP']/@composite"/>
       </ownedRepresentationDescriptors>
@@ -179,7 +179,7 @@
                 <styles xmi:type="notation:FilteringStyle" xmi:id="_oSrjxlLvEfGLEpys3fKMLQ"/>
               </children>
               <styles xmi:type="notation:ShapeStyle" xmi:id="_oSrjwVLvEfGLEpys3fKMLQ" fontName="Segoe UI" fontHeight="8"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oSrjwlLvEfGLEpys3fKMLQ" x="541" y="619" width="216" height="131"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oSrjwlLvEfGLEpys3fKMLQ" x="535" y="669" width="216" height="131"/>
             </children>
             <children xmi:type="notation:Node" xmi:id="_zUXvkFLvEfGLEpys3fKMLQ" type="3009" element="_zURB6VLvEfGLEpys3fKMLQ">
               <children xmi:type="notation:Node" xmi:id="_zUXvk1LvEfGLEpys3fKMLQ" type="5004"/>
@@ -196,7 +196,7 @@
                 <styles xmi:type="notation:FilteringStyle" xmi:id="_zUXvllLvEfGLEpys3fKMLQ"/>
               </children>
               <styles xmi:type="notation:ShapeStyle" xmi:id="_zUXvkVLvEfGLEpys3fKMLQ" fontName="Segoe UI" fontHeight="8"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zUXvklLvEfGLEpys3fKMLQ" x="70" y="814" width="248" height="138"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zUXvklLvEfGLEpys3fKMLQ" x="70" y="889" width="248" height="138"/>
             </children>
             <children xmi:type="notation:Node" xmi:id="_5evAEFLvEfGLEpys3fKMLQ" type="3009" element="_5eo5dlLvEfGLEpys3fKMLQ">
               <children xmi:type="notation:Node" xmi:id="_5evnIlLvEfGLEpys3fKMLQ" type="5004"/>
@@ -213,7 +213,7 @@
                 <styles xmi:type="notation:FilteringStyle" xmi:id="_5evnJVLvEfGLEpys3fKMLQ"/>
               </children>
               <styles xmi:type="notation:ShapeStyle" xmi:id="_5evnIFLvEfGLEpys3fKMLQ" fontName="Segoe UI" fontHeight="8"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5evnIVLvEfGLEpys3fKMLQ" x="370" y="813" width="232" height="141"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5evnIVLvEfGLEpys3fKMLQ" x="370" y="887" width="232" height="141"/>
             </children>
             <children xmi:type="notation:Node" xmi:id="_6ZzhMFLvEfGLEpys3fKMLQ" type="3009" element="_6ZsMelLvEfGLEpys3fKMLQ">
               <children xmi:type="notation:Node" xmi:id="_6ZzhM1LvEfGLEpys3fKMLQ" type="5004"/>
@@ -230,7 +230,7 @@
                 <styles xmi:type="notation:FilteringStyle" xmi:id="_6ZzhNlLvEfGLEpys3fKMLQ"/>
               </children>
               <styles xmi:type="notation:ShapeStyle" xmi:id="_6ZzhMVLvEfGLEpys3fKMLQ" fontName="Segoe UI" fontHeight="8"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6ZzhMlLvEfGLEpys3fKMLQ" x="665" y="814" width="236" height="139"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6ZzhMlLvEfGLEpys3fKMLQ" x="670" y="888" width="236" height="139"/>
             </children>
             <children xmi:type="notation:Node" xmi:id="_63sXEFLvEfGLEpys3fKMLQ" type="3009" element="_63lCXlLvEfGLEpys3fKMLQ">
               <children xmi:type="notation:Node" xmi:id="_63s-IFLvEfGLEpys3fKMLQ" type="5004"/>
@@ -247,7 +247,7 @@
                 <styles xmi:type="notation:FilteringStyle" xmi:id="_63s-I1LvEfGLEpys3fKMLQ"/>
               </children>
               <styles xmi:type="notation:ShapeStyle" xmi:id="_63sXEVLvEfGLEpys3fKMLQ" fontName="Segoe UI" fontHeight="8"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63sXElLvEfGLEpys3fKMLQ" x="960" y="815" width="268" height="138"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63sXElLvEfGLEpys3fKMLQ" x="955" y="889" width="268" height="138"/>
             </children>
             <children xmi:type="notation:Node" xmi:id="_YERLMFQ-EfGBpv5-PSPNyQ" type="3007" element="_YDyDBFQ-EfGBpv5-PSPNyQ">
               <children xmi:type="notation:Node" xmi:id="_YERLM1Q-EfGBpv5-PSPNyQ" type="5003">
@@ -302,7 +302,7 @@
                 <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Fv0RglRAEfGBpv5-PSPNyQ"/>
               </children>
               <styles xmi:type="notation:ShapeStyle" xmi:id="_FvzqcVRAEfGBpv5-PSPNyQ" fontName="Segoe UI" fontHeight="8"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FvzqclRAEfGBpv5-PSPNyQ" x="703" y="999" width="181" height="86"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FvzqclRAEfGBpv5-PSPNyQ" x="703" y="1069" width="181" height="86"/>
             </children>
             <children xmi:type="notation:Node" xmi:id="_J7ExAFRAEfGBpv5-PSPNyQ" type="3007" element="_J6e7JlRAEfGBpv5-PSPNyQ">
               <children xmi:type="notation:Node" xmi:id="_J7ExA1RAEfGBpv5-PSPNyQ" type="5003">
@@ -313,13 +313,24 @@
                 <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J7FYElRAEfGBpv5-PSPNyQ"/>
               </children>
               <styles xmi:type="notation:ShapeStyle" xmi:id="_J7ExAVRAEfGBpv5-PSPNyQ" fontName="Segoe UI" fontHeight="8"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J7ExAlRAEfGBpv5-PSPNyQ" x="148" y="1034" width="158" height="86"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J7ExAlRAEfGBpv5-PSPNyQ" x="148" y="1119" width="158" height="86"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_hqyM4FxqEfG7F94WLjrvoA" type="3007" element="_hqTEslxqEfG7F94WLjrvoA">
+              <children xmi:type="notation:Node" xmi:id="_hrIyMFxqEfG7F94WLjrvoA" type="5003">
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_hrIyMVxqEfG7F94WLjrvoA" y="5"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_hrO40FxqEfG7F94WLjrvoA" type="3003" element="_hqYkQFxqEfG7F94WLjrvoA">
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_hrO40VxqEfG7F94WLjrvoA" fontName="Segoe UI"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hrO40lxqEfG7F94WLjrvoA"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_hqyM4VxqEfG7F94WLjrvoA" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hqyz8FxqEfG7F94WLjrvoA" x="410" y="1204" width="175" height="96"/>
             </children>
             <styles xmi:type="notation:SortingStyle" xmi:id="_D0azwVLrEfGLEpys3fKMLQ"/>
             <styles xmi:type="notation:FilteringStyle" xmi:id="_D0azwlLrEfGLEpys3fKMLQ"/>
           </children>
           <styles xmi:type="notation:ShapeStyle" xmi:id="_D0FckVLrEfGLEpys3fKMLQ" fontName="Segoe UI" fontHeight="8"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_D0FcklLrEfGLEpys3fKMLQ" x="-55" y="-675" width="1273" height="1178"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_D0FcklLrEfGLEpys3fKMLQ" x="-55" y="-675" width="1273" height="1402"/>
         </children>
         <styles xmi:type="notation:DiagramStyle" xmi:id="_DrN0cFLrEfGLEpys3fKMLQ"/>
         <edges xmi:type="notation:Edge" xmi:id="_RNIPYFLtEfGLEpys3fKMLQ" type="4001" element="_RMf9QFLtEfGLEpys3fKMLQ" source="_SgWcsFLrEfGLEpys3fKMLQ" target="_CMtZoFLsEfGLEpys3fKMLQ">
@@ -436,65 +447,65 @@
         </edges>
         <edges xmi:type="notation:Edge" xmi:id="_MW4KwFLwEfGLEpys3fKMLQ" type="4001" element="_MWvA2FLwEfGLEpys3fKMLQ" source="_oSrjwFLvEfGLEpys3fKMLQ" target="_zUXvkFLvEfGLEpys3fKMLQ">
           <children xmi:type="notation:Node" xmi:id="_MW4x0FLwEfGLEpys3fKMLQ" type="6001">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MW4x0VLwEfGLEpys3fKMLQ" y="-10"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MW4x0VLwEfGLEpys3fKMLQ" x="-16" y="-10"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_MW4x0lLwEfGLEpys3fKMLQ" type="6002">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MW4x01LwEfGLEpys3fKMLQ" y="10"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MW4x01LwEfGLEpys3fKMLQ" x="-9" y="10"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_MW4x1FLwEfGLEpys3fKMLQ" type="6003">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MW4x1VLwEfGLEpys3fKMLQ" y="10"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MW4x1VLwEfGLEpys3fKMLQ" x="-72" y="10"/>
           </children>
           <styles xmi:type="notation:ConnectorStyle" xmi:id="_MW4KwVLwEfGLEpys3fKMLQ" routing="Rectilinear"/>
           <styles xmi:type="notation:FontStyle" xmi:id="_MW4KwlLwEfGLEpys3fKMLQ" fontName="Segoe UI" fontHeight="8"/>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_MW4Kw1LwEfGLEpys3fKMLQ" points="[0, 0, 356, -155]$[-356, 155, 0, 0]"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_MW4Kw1LwEfGLEpys3fKMLQ" points="[0, 0, 350, -180]$[-350, 0, 0, -180]$[-350, 180, 0, 0]"/>
           <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_MW4x1lLwEfGLEpys3fKMLQ" id="(0.0,0.31007751937984496)"/>
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_MW4x11LwEfGLEpys3fKMLQ" id="(0.46747967479674796,0.0)"/>
         </edges>
         <edges xmi:type="notation:Edge" xmi:id="_N2QdYFLxEfGLEpys3fKMLQ" type="4001" element="_N2GsYlLxEfGLEpys3fKMLQ" source="_oSrjwFLvEfGLEpys3fKMLQ" target="_5evAEFLvEfGLEpys3fKMLQ">
           <children xmi:type="notation:Node" xmi:id="_N2REcFLxEfGLEpys3fKMLQ" type="6001">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_N2REcVLxEfGLEpys3fKMLQ" y="-10"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_N2REcVLxEfGLEpys3fKMLQ" x="-21" y="-10"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_N2REclLxEfGLEpys3fKMLQ" type="6002">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_N2REc1LxEfGLEpys3fKMLQ" y="10"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_N2REc1LxEfGLEpys3fKMLQ" x="-9" y="10"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_N2REdFLxEfGLEpys3fKMLQ" type="6003">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_N2REdVLxEfGLEpys3fKMLQ" y="10"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_N2REdVLxEfGLEpys3fKMLQ" x="-71" y="10"/>
           </children>
           <styles xmi:type="notation:ConnectorStyle" xmi:id="_N2QdYVLxEfGLEpys3fKMLQ" routing="Rectilinear"/>
           <styles xmi:type="notation:FontStyle" xmi:id="_N2QdYlLxEfGLEpys3fKMLQ" fontName="Segoe UI" fontHeight="8"/>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_N2QdY1LxEfGLEpys3fKMLQ" points="[0, 0, 71, -114]$[-71, 114, 0, 0]"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_N2QdY1LxEfGLEpys3fKMLQ" points="[0, 0, 65, -138]$[-65, 0, 0, -138]$[-65, 138, 0, 0]"/>
           <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_N2REdlLxEfGLEpys3fKMLQ" id="(0.0,0.6201550387596899)"/>
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_N2REd1LxEfGLEpys3fKMLQ" id="(0.43478260869565216,0.0)"/>
         </edges>
         <edges xmi:type="notation:Edge" xmi:id="_UUZlgFLxEfGLEpys3fKMLQ" type="4001" element="_UUQbnlLxEfGLEpys3fKMLQ" source="_oSrjwFLvEfGLEpys3fKMLQ" target="_6ZzhMFLvEfGLEpys3fKMLQ">
           <children xmi:type="notation:Node" xmi:id="_UUZlhFLxEfGLEpys3fKMLQ" type="6001">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UUZlhVLxEfGLEpys3fKMLQ" y="-10"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UUZlhVLxEfGLEpys3fKMLQ" x="-14" y="-10"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_UUZlhlLxEfGLEpys3fKMLQ" type="6002">
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UUZlh1LxEfGLEpys3fKMLQ" y="10"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_UUaMkFLxEfGLEpys3fKMLQ" type="6003">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UUaMkVLxEfGLEpys3fKMLQ" y="10"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UUaMkVLxEfGLEpys3fKMLQ" x="-69" y="10"/>
           </children>
           <styles xmi:type="notation:ConnectorStyle" xmi:id="_UUZlgVLxEfGLEpys3fKMLQ" routing="Rectilinear"/>
           <styles xmi:type="notation:FontStyle" xmi:id="_UUZlglLxEfGLEpys3fKMLQ" fontName="Segoe UI" fontHeight="8"/>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UUZlg1LxEfGLEpys3fKMLQ" points="[0, 0, -65, -120]$[65, 120, 0, 0]"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UUZlg1LxEfGLEpys3fKMLQ" points="[0, 0, -76, -144]$[76, 0, 0, -144]$[76, 144, 0, 0]"/>
           <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UUaMklLxEfGLEpys3fKMLQ" id="(1.0,0.5813953488372093)"/>
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UUaMk1LxEfGLEpys3fKMLQ" id="(0.6623931623931624,0.0)"/>
         </edges>
         <edges xmi:type="notation:Edge" xmi:id="_j6B2kFLxEfGLEpys3fKMLQ" type="4001" element="_j52QbFLxEfGLEpys3fKMLQ" source="_oSrjwFLvEfGLEpys3fKMLQ" target="_63sXEFLvEfGLEpys3fKMLQ">
           <children xmi:type="notation:Node" xmi:id="_j6B2lFLxEfGLEpys3fKMLQ" type="6001">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_j6B2lVLxEfGLEpys3fKMLQ" y="-10"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_j6B2lVLxEfGLEpys3fKMLQ" x="-7" y="-10"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_j6CdoFLxEfGLEpys3fKMLQ" type="6002">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_j6CdoVLxEfGLEpys3fKMLQ" y="10"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_j6CdoVLxEfGLEpys3fKMLQ" x="2" y="10"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_j6CdolLxEfGLEpys3fKMLQ" type="6003">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_j6Cdo1LxEfGLEpys3fKMLQ" y="10"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_j6Cdo1LxEfGLEpys3fKMLQ" x="-70" y="10"/>
           </children>
           <styles xmi:type="notation:ConnectorStyle" xmi:id="_j6B2kVLxEfGLEpys3fKMLQ" routing="Rectilinear"/>
           <styles xmi:type="notation:FontStyle" xmi:id="_j6B2klLxEfGLEpys3fKMLQ" fontName="Segoe UI" fontHeight="8"/>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_j6B2k1LxEfGLEpys3fKMLQ" points="[0, 0, -345, -166]$[345, 166, 0, 0]"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_j6B2k1LxEfGLEpys3fKMLQ" points="[0, 0, -346, -190]$[346, 0, 0, -190]$[346, 190, 0, 0]"/>
           <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_j6CdpFLxEfGLEpys3fKMLQ" id="(1.0,0.23255813953488372)"/>
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_j6CdpVLxEfGLEpys3fKMLQ" id="(0.5263157894736842,0.0)"/>
         </edges>
@@ -580,67 +591,99 @@
         </edges>
         <edges xmi:type="notation:Edge" xmi:id="_GqtMcFRAEfGBpv5-PSPNyQ" type="4001" element="_GqXORFRAEfGBpv5-PSPNyQ" source="_6ZzhMFLvEfGLEpys3fKMLQ" target="_FvzqcFRAEfGBpv5-PSPNyQ">
           <children xmi:type="notation:Node" xmi:id="_GqtMdFRAEfGBpv5-PSPNyQ" type="6001">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GqtMdVRAEfGBpv5-PSPNyQ" x="-2" y="-9"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GqtMdVRAEfGBpv5-PSPNyQ" x="-4" y="-3"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_GqtMdlRAEfGBpv5-PSPNyQ" type="6002">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GqtMd1RAEfGBpv5-PSPNyQ" x="1" y="11"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GqtMd1RAEfGBpv5-PSPNyQ" x="8" y="14"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_GqtMeFRAEfGBpv5-PSPNyQ" type="6003">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GqtMeVRAEfGBpv5-PSPNyQ" x="1" y="10"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GqtMeVRAEfGBpv5-PSPNyQ" x="5" y="12"/>
           </children>
-          <styles xmi:type="notation:ConnectorStyle" xmi:id="_GqtMcVRAEfGBpv5-PSPNyQ"/>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_GqtMcVRAEfGBpv5-PSPNyQ" routing="Rectilinear"/>
           <styles xmi:type="notation:FontStyle" xmi:id="_GqtMclRAEfGBpv5-PSPNyQ" fontName="Segoe UI" fontHeight="8"/>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_GqtMc1RAEfGBpv5-PSPNyQ" points="[0, 0, 7, -48]$[-7, 48, 0, 0]"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_GqtMc1RAEfGBpv5-PSPNyQ" points="[0, 0, 12, -44]$[-12, 44, 0, 0]"/>
           <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_GqtMelRAEfGBpv5-PSPNyQ" id="(0.5341880341880342,1.0)"/>
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_GqtMe1RAEfGBpv5-PSPNyQ" id="(0.4419889502762431,0.0)"/>
         </edges>
         <edges xmi:type="notation:Edge" xmi:id="_Pw_bgFRAEfGBpv5-PSPNyQ" type="4001" element="_Pwu88FRAEfGBpv5-PSPNyQ" source="_zUXvkFLvEfGLEpys3fKMLQ" target="_J7ExAFRAEfGBpv5-PSPNyQ">
           <children xmi:type="notation:Node" xmi:id="_Pw_bhFRAEfGBpv5-PSPNyQ" type="6001">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Pw_bhVRAEfGBpv5-PSPNyQ" y="-10"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Pw_bhVRAEfGBpv5-PSPNyQ" x="-24" y="-10"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_Pw_bhlRAEfGBpv5-PSPNyQ" type="6002">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Pw_bh1RAEfGBpv5-PSPNyQ" y="10"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Pw_bh1RAEfGBpv5-PSPNyQ" x="-8" y="10"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_Pw_biFRAEfGBpv5-PSPNyQ" type="6003">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Pw_biVRAEfGBpv5-PSPNyQ" y="10"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Pw_biVRAEfGBpv5-PSPNyQ" x="-40" y="10"/>
           </children>
           <styles xmi:type="notation:ConnectorStyle" xmi:id="_Pw_bgVRAEfGBpv5-PSPNyQ"/>
           <styles xmi:type="notation:FontStyle" xmi:id="_Pw_bglRAEfGBpv5-PSPNyQ" fontName="Segoe UI" fontHeight="8"/>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Pw_bg1RAEfGBpv5-PSPNyQ" points="[0, 0, 0, -84]$[0, 84, 0, 0]"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Pw_bg1RAEfGBpv5-PSPNyQ" points="[0, 0, 0, -94]$[0, 94, 0, 0]"/>
           <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Pw_bilRAEfGBpv5-PSPNyQ" id="(0.6097560975609756,1.0)"/>
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Pw_bi1RAEfGBpv5-PSPNyQ" id="(0.45569620253164556,0.0)"/>
         </edges>
         <edges xmi:type="notation:Edge" xmi:id="_RBXeQFRAEfGBpv5-PSPNyQ" type="4001" element="_RBG_oFRAEfGBpv5-PSPNyQ" source="_63sXEFLvEfGLEpys3fKMLQ" target="_J7ExAFRAEfGBpv5-PSPNyQ">
           <children xmi:type="notation:Node" xmi:id="_RBXeRFRAEfGBpv5-PSPNyQ" type="6001">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RBXeRVRAEfGBpv5-PSPNyQ" x="19" y="-10"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RBXeRVRAEfGBpv5-PSPNyQ" x="148" y="-12"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_RBXeRlRAEfGBpv5-PSPNyQ" type="6002">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RBXeR1RAEfGBpv5-PSPNyQ" x="7" y="16"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RBXeR1RAEfGBpv5-PSPNyQ" x="-4" y="11"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_RBXeSFRAEfGBpv5-PSPNyQ" type="6003">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RBXeSVRAEfGBpv5-PSPNyQ" x="6" y="10"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RBXeSVRAEfGBpv5-PSPNyQ" x="3" y="10"/>
           </children>
           <styles xmi:type="notation:ConnectorStyle" xmi:id="_RBXeQVRAEfGBpv5-PSPNyQ" routing="Rectilinear"/>
           <styles xmi:type="notation:FontStyle" xmi:id="_RBXeQlRAEfGBpv5-PSPNyQ" fontName="Segoe UI" fontHeight="8"/>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_RBXeQ1RAEfGBpv5-PSPNyQ" points="[-1, 0, 786, -118]$[-1, 158, 786, 40]$[-787, 158, 0, 40]"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_RBXeQ1RAEfGBpv5-PSPNyQ" points="[-1, 0, 781, -129]$[-1, 144, 781, 15]$[-782, 144, 0, 15]"/>
           <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_RBXeSlRAEfGBpv5-PSPNyQ" id="(0.5,1.0)"/>
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_RBXeS1RAEfGBpv5-PSPNyQ" id="(1.0,0.4069767441860465)"/>
         </edges>
         <edges xmi:type="notation:Edge" xmi:id="_YK0NMFRAEfGBpv5-PSPNyQ" type="4001" element="_YKjujFRAEfGBpv5-PSPNyQ" source="_5evAEFLvEfGLEpys3fKMLQ" target="_xRS0UFQ-EfGBpv5-PSPNyQ">
           <children xmi:type="notation:Node" xmi:id="_YK0NNFRAEfGBpv5-PSPNyQ" type="6001">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YK0NNVRAEfGBpv5-PSPNyQ" y="-10"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YK0NNVRAEfGBpv5-PSPNyQ" x="16" y="-11"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_YK00QFRAEfGBpv5-PSPNyQ" type="6002">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YK00QVRAEfGBpv5-PSPNyQ" y="10"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YK00QVRAEfGBpv5-PSPNyQ" x="63" y="10"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_YK00QlRAEfGBpv5-PSPNyQ" type="6003">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YK00Q1RAEfGBpv5-PSPNyQ" y="10"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YK00Q1RAEfGBpv5-PSPNyQ" x="11" y="10"/>
           </children>
           <styles xmi:type="notation:ConnectorStyle" xmi:id="_YK0NMVRAEfGBpv5-PSPNyQ" routing="Rectilinear"/>
           <styles xmi:type="notation:FontStyle" xmi:id="_YK0NMlRAEfGBpv5-PSPNyQ" fontName="Segoe UI" fontHeight="8"/>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_YK0NM1RAEfGBpv5-PSPNyQ" points="[0, 0, 24, 205]$[-24, -205, 0, 0]"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_YK0NM1RAEfGBpv5-PSPNyQ" points="[0, 0, 24, 279]$[0, -177, 24, 102]$[-24, -177, 0, 102]$[-24, -279, 0, 0]"/>
           <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_YK00RFRAEfGBpv5-PSPNyQ" id="(0.10434782608695652,0.0)"/>
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_YK00RVRAEfGBpv5-PSPNyQ" id="(0.78125,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_lkTcIFxqEfG7F94WLjrvoA" type="4001" element="_lkLgVFxqEfG7F94WLjrvoA" source="_63sXEFLvEfGLEpys3fKMLQ" target="_hqyM4FxqEfG7F94WLjrvoA">
+          <children xmi:type="notation:Node" xmi:id="_lkUqQFxqEfG7F94WLjrvoA" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lkUqQVxqEfG7F94WLjrvoA" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_lkV4YFxqEfG7F94WLjrvoA" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lkV4YVxqEfG7F94WLjrvoA" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_lkWfcFxqEfG7F94WLjrvoA" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lkWfcVxqEfG7F94WLjrvoA" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_lkTcIVxqEfG7F94WLjrvoA" routing="Rectilinear"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_lkTcIlxqEfG7F94WLjrvoA" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_lkTcI1xqEfG7F94WLjrvoA" points="[0, 0, 575, -234]$[-575, 234, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_lkXtkFxqEfG7F94WLjrvoA" id="(0.7706766917293233,1.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_lkXtkVxqEfG7F94WLjrvoA" id="(1.0,0.5729166666666666)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_oJEe8FxqEfG7F94WLjrvoA" type="4001" element="_oJANjlxqEfG7F94WLjrvoA" source="_zUXvkFLvEfGLEpys3fKMLQ" target="_hqyM4FxqEfG7F94WLjrvoA">
+          <children xmi:type="notation:Node" xmi:id="_oJEe9FxqEfG7F94WLjrvoA" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oJEe9VxqEfG7F94WLjrvoA" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_oJFGAFxqEfG7F94WLjrvoA" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oJFGAVxqEfG7F94WLjrvoA" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_oJFGAlxqEfG7F94WLjrvoA" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oJFGA1xqEfG7F94WLjrvoA" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_oJEe8VxqEfG7F94WLjrvoA" routing="Rectilinear"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_oJEe8lxqEfG7F94WLjrvoA" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_oJEe81xqEfG7F94WLjrvoA" points="[0, 0, -310, -229]$[310, 229, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_oJFGBFxqEfG7F94WLjrvoA" id="(0.12195121951219512,1.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_oJFGBVxqEfG7F94WLjrvoA" id="(0.0,0.5208333333333334)"/>
         </edges>
       </data>
     </ownedAnnotationEntries>
@@ -840,7 +883,7 @@
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Req.Text']"/>
         </ownedElements>
       </ownedDiagramElements>
-      <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_zURB6VLvEfGLEpys3fKMLQ" name="&lt;&lt;requirement>>&#xA;FaultToleranceNFR" outgoingEdges="_Pwu88FRAEfGBpv5-PSPNyQ" incomingEdges="_MWvA2FLwEfGLEpys3fKMLQ">
+      <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_zURB6VLvEfGLEpys3fKMLQ" name="&lt;&lt;requirement>>&#xA;FaultToleranceNFR" outgoingEdges="_Pwu88FRAEfGBpv5-PSPNyQ _oJANjlxqEfG7F94WLjrvoA" incomingEdges="_MWvA2FLwEfGLEpys3fKMLQ">
         <target xmi:type="sysadl:Requirement" href="HotelAccessSystem.sysadl#2.1"/>
         <semanticElements xmi:type="sysadl:Requirement" href="HotelAccessSystem.sysadl#2.1"/>
         <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_zURo8FLvEfGLEpys3fKMLQ" showIcon="false" borderSize="1" borderSizeComputationExpression="1" foregroundColor="255,255,255">
@@ -918,7 +961,7 @@
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subContainerMappings[name='SysADL.Req.Requirement']/@subNodeMappings[name='SysADL.Req.Text']"/>
         </ownedElements>
       </ownedDiagramElements>
-      <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_63lCXlLvEfGLEpys3fKMLQ" name="&lt;&lt;requirement>>&#xA;AvailabilityNFR" outgoingEdges="_RBG_oFRAEfGBpv5-PSPNyQ" incomingEdges="_j52QbFLxEfGLEpys3fKMLQ">
+      <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_63lCXlLvEfGLEpys3fKMLQ" name="&lt;&lt;requirement>>&#xA;AvailabilityNFR" outgoingEdges="_RBG_oFRAEfGBpv5-PSPNyQ _lkLgVFxqEfG7F94WLjrvoA" incomingEdges="_j52QbFLxEfGLEpys3fKMLQ">
         <target xmi:type="sysadl:Requirement" href="HotelAccessSystem.sysadl#2.4"/>
         <semanticElements xmi:type="sysadl:Requirement" href="HotelAccessSystem.sysadl#2.4"/>
         <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_63lpYFLvEfGLEpys3fKMLQ" showIcon="false" borderSize="1" borderSizeComputationExpression="1" foregroundColor="255,255,255">
@@ -984,6 +1027,15 @@
         <target xmi:type="sysadl:ComponentDef" href="HotelAccessSystem.sysadl#//@packages[name='HotelAccessSystemComponents']/@definitions[name='BackupServerCP']"/>
         <semanticElements xmi:type="sysadl:ComponentDef" href="HotelAccessSystem.sysadl#//@packages[name='HotelAccessSystemComponents']/@definitions[name='BackupServerCP']"/>
         <ownedStyle xmi:type="diagram:Square" uid="_J6e7J1RAEfGBpv5-PSPNyQ" showIcon="false" labelPosition="node" color="255,255,255">
+          <customFeatures>color</customFeatures>
+          <description xmi:type="style:SquareDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subNodeMappings[name='SysADL.Req.Imports.Element']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subNodeMappings[name='SysADL.Req.Imports.Element']"/>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNode" uid="_hqTEslxqEfG7F94WLjrvoA" name="&lt;&lt;Component>>&#xA;FaultTolerantRouterCP" incomingEdges="_lkLgVFxqEfG7F94WLjrvoA _oJANjlxqEfG7F94WLjrvoA" width="3" height="3" resizeKind="NSEW">
+        <target xmi:type="sysadl:ComponentDef" href="HotelAccessSystem.sysadl#//@packages[name='HotelAccessSystemComponents']/@definitions[name='FaultTolerantRouterCP']"/>
+        <semanticElements xmi:type="sysadl:ComponentDef" href="HotelAccessSystem.sysadl#//@packages[name='HotelAccessSystemComponents']/@definitions[name='FaultTolerantRouterCP']"/>
+        <ownedStyle xmi:type="diagram:Square" uid="_hqYkQFxqEfG7F94WLjrvoA" showIcon="false" labelPosition="node" color="255,255,255">
           <customFeatures>color</customFeatures>
           <description xmi:type="style:SquareDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@containerMappings[name='SysADL.Req.Self']/@subNodeMappings[name='SysADL.Req.Imports.Element']/@style"/>
         </ownedStyle>
@@ -1177,8 +1229,9 @@
     </ownedDiagramElements>
     <ownedDiagramElements xmi:type="diagram:DEdge" uid="_GqXORFRAEfGBpv5-PSPNyQ" name="&lt;&lt;satisfies>>" sourceNode="_6ZsMelLvEfGLEpys3fKMLQ" targetNode="_FvceGFRAEfGBpv5-PSPNyQ">
       <target xmi:type="sysadl:Requirement" href="HotelAccessSystem.sysadl#2.3"/>
-      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_GqXORVRAEfGBpv5-PSPNyQ" lineStyle="dash" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_GqXORVRAEfGBpv5-PSPNyQ" lineStyle="dash" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2" routingStyle="manhattan">
         <customFeatures>lineStyle</customFeatures>
+        <customFeatures>routingStyle</customFeatures>
         <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@edgeMappings[name='SysADL.Req.SatisfiedBy']/@style"/>
         <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_GqXORlRAEfGBpv5-PSPNyQ" showIcon="false"/>
       </ownedStyle>
@@ -1210,6 +1263,26 @@
         <customFeatures>lineStyle</customFeatures>
         <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@edgeMappings[name='SysADL.Req.SatisfiedBy']/@style"/>
         <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_YKjujlRAEfGBpv5-PSPNyQ" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@edgeMappings[name='SysADL.Req.SatisfiedBy']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_lkLgVFxqEfG7F94WLjrvoA" name="&lt;&lt;satisfies>>" sourceNode="_63lCXlLvEfGLEpys3fKMLQ" targetNode="_hqTEslxqEfG7F94WLjrvoA">
+      <target xmi:type="sysadl:Requirement" href="HotelAccessSystem.sysadl#2.4"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_lkMHYFxqEfG7F94WLjrvoA" lineStyle="dash" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2" routingStyle="manhattan">
+        <customFeatures>routingStyle</customFeatures>
+        <customFeatures>lineStyle</customFeatures>
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@edgeMappings[name='SysADL.Req.SatisfiedBy']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_lkMHYVxqEfG7F94WLjrvoA" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@edgeMappings[name='SysADL.Req.SatisfiedBy']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_oJANjlxqEfG7F94WLjrvoA" name="&lt;&lt;satisfies>>" sourceNode="_zURB6VLvEfGLEpys3fKMLQ" targetNode="_hqTEslxqEfG7F94WLjrvoA">
+      <target xmi:type="sysadl:Requirement" href="HotelAccessSystem.sysadl#2.1"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_oJA0kFxqEfG7F94WLjrvoA" lineStyle="dash" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2" routingStyle="manhattan">
+        <customFeatures>routingStyle</customFeatures>
+        <customFeatures>lineStyle</customFeatures>
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@edgeMappings[name='SysADL.Req.SatisfiedBy']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_oJA0kVxqEfG7F94WLjrvoA" showIcon="false"/>
       </ownedStyle>
       <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Requirements']/@ownedRepresentations[name='SysADL.Requirements.Main']/@defaultLayer/@edgeMappings[name='SysADL.Req.SatisfiedBy']"/>
     </ownedDiagramElements>
@@ -4140,7 +4213,7 @@
               </children>
               <children xmi:type="notation:Node" xmi:id="_dU9m4FofEfG_L_83WLOpSQ" type="3001" element="_dUrTAlofEfG_L_83WLOpSQ">
                 <children xmi:type="notation:Node" xmi:id="_dU9m41ofEfG_L_83WLOpSQ" type="5001">
-                  <layoutConstraint xmi:type="notation:Location" xmi:id="_dU9m5FofEfG_L_83WLOpSQ" x="-168" y="1"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_dU9m5FofEfG_L_83WLOpSQ" x="-168"/>
                 </children>
                 <children xmi:type="notation:Node" xmi:id="_dVADI1ofEfG_L_83WLOpSQ" type="3003" element="_dUrTA1ofEfG_L_83WLOpSQ">
                   <styles xmi:type="notation:ShapeStyle" xmi:id="_dVADJFofEfG_L_83WLOpSQ" fontName="Segoe UI"/>
@@ -4176,7 +4249,7 @@
                 <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dVADIlofEfG_L_83WLOpSQ"/>
               </children>
               <styles xmi:type="notation:ShapeStyle" xmi:id="_dU8_0VofEfG_L_83WLOpSQ" fontName="Segoe UI" fontHeight="8"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dU8_0lofEfG_L_83WLOpSQ" x="1340" y="629" width="221" height="96"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dU8_0lofEfG_L_83WLOpSQ" x="1340" y="544" width="221" height="96"/>
             </children>
             <children xmi:type="notation:Node" xmi:id="_e2C_IFofEfG_L_83WLOpSQ" type="3007" element="_e1uPBlofEfG_L_83WLOpSQ">
               <children xmi:type="notation:Node" xmi:id="_e2DmMFofEfG_L_83WLOpSQ" type="5003">
@@ -4363,7 +4436,7 @@
                 <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mKjuklofEfG_L_83WLOpSQ"/>
               </children>
               <styles xmi:type="notation:ShapeStyle" xmi:id="_mKigcVofEfG_L_83WLOpSQ" fontName="Segoe UI" fontHeight="8"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mKigclofEfG_L_83WLOpSQ" x="175" y="624" width="221" height="106"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mKigclofEfG_L_83WLOpSQ" x="180" y="554" width="221" height="106"/>
             </children>
             <children xmi:type="notation:Node" xmi:id="_pohDMFofEfG_L_83WLOpSQ" type="3007" element="_poP9glofEfG_L_83WLOpSQ">
               <children xmi:type="notation:Node" xmi:id="_pohqQFofEfG_L_83WLOpSQ" type="5003">
@@ -4396,7 +4469,7 @@
                 <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pojfcFofEfG_L_83WLOpSQ"/>
               </children>
               <styles xmi:type="notation:ShapeStyle" xmi:id="_pohDMVofEfG_L_83WLOpSQ" fontName="Segoe UI" fontHeight="8"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pohDMlofEfG_L_83WLOpSQ" x="795" y="579" width="226" height="106"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pohDMlofEfG_L_83WLOpSQ" x="795" y="499" width="226" height="106"/>
             </children>
             <children xmi:type="notation:Node" xmi:id="_qnhCElofEfG_L_83WLOpSQ" type="3007" element="_qnOuM1ofEfG_L_83WLOpSQ">
               <children xmi:type="notation:Node" xmi:id="_qnhCFVofEfG_L_83WLOpSQ" type="5003">
@@ -4424,7 +4497,7 @@
             <styles xmi:type="notation:FilteringStyle" xmi:id="_Ec-rk1odEfG_L_83WLOpSQ"/>
           </children>
           <styles xmi:type="notation:ShapeStyle" xmi:id="_Ec-EglodEfG_L_83WLOpSQ" fontName="Segoe UI" fontHeight="8"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ec-Eg1odEfG_L_83WLOpSQ" x="-1410" y="-400" width="1998" height="898"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ec-Eg1odEfG_L_83WLOpSQ" x="-1410" y="-400" width="1932" height="738"/>
         </children>
         <styles xmi:type="notation:DiagramStyle" xmi:id="_Ec8PUlodEfG_L_83WLOpSQ"/>
         <edges xmi:type="notation:Edge" xmi:id="_iEbX8FolEfG_L_83WLOpSQ" type="4001" element="_iEDkgFolEfG_L_83WLOpSQ" source="_qnhpIFofEfG_L_83WLOpSQ" target="_bVJrQlofEfG_L_83WLOpSQ">
@@ -4461,33 +4534,33 @@
         </edges>
         <edges xmi:type="notation:Edge" xmi:id="_PwMWIFomEfG_L_83WLOpSQ" type="4001" element="_Pv1w2FomEfG_L_83WLOpSQ" source="_jnbqgFofEfG_L_83WLOpSQ" target="_dU9m4FofEfG_L_83WLOpSQ">
           <children xmi:type="notation:Node" xmi:id="_PwMWJFomEfG_L_83WLOpSQ" type="6001">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PwMWJVomEfG_L_83WLOpSQ" x="21" y="9"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PwMWJVomEfG_L_83WLOpSQ" x="-9" y="63"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_PwMWJlomEfG_L_83WLOpSQ" type="6002">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PwMWJ1omEfG_L_83WLOpSQ" x="-10" y="-11"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PwMWJ1omEfG_L_83WLOpSQ" x="3" y="-11"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_PwMWKFomEfG_L_83WLOpSQ" type="6003">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PwMWKVomEfG_L_83WLOpSQ" x="2" y="-9"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PwMWKVomEfG_L_83WLOpSQ" x="9" y="-9"/>
           </children>
           <styles xmi:type="notation:ConnectorStyle" xmi:id="_PwMWIVomEfG_L_83WLOpSQ" routing="Rectilinear"/>
           <styles xmi:type="notation:FontStyle" xmi:id="_PwMWIlomEfG_L_83WLOpSQ" fontName="Segoe UI" fontHeight="8"/>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_PwMWI1omEfG_L_83WLOpSQ" points="[5, 12, -146, -245]$[143, 12, -8, -245]$[143, 237, -8, -20]"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_PwMWI1omEfG_L_83WLOpSQ" points="[5, 12, -146, -160]$[143, 12, -8, -160]$[143, 152, -8, -20]"/>
           <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_PwMWKlomEfG_L_83WLOpSQ" id="(0.75,0.0)"/>
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_PwMWK1omEfG_L_83WLOpSQ" id="(0.6,1.0)"/>
         </edges>
         <edges xmi:type="notation:Edge" xmi:id="_ZVwiMFomEfG_L_83WLOpSQ" type="4001" element="_ZVXgrFomEfG_L_83WLOpSQ" source="_dU-1AFofEfG_L_83WLOpSQ" target="_jndfsFofEfG_L_83WLOpSQ">
           <children xmi:type="notation:Node" xmi:id="_ZVwiNFomEfG_L_83WLOpSQ" type="6001">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZVwiNVomEfG_L_83WLOpSQ" x="-23" y="10"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZVwiNVomEfG_L_83WLOpSQ" x="-37" y="-38"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_ZVwiNlomEfG_L_83WLOpSQ" type="6002">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZVwiN1omEfG_L_83WLOpSQ" x="-2" y="-10"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZVwiN1omEfG_L_83WLOpSQ" x="-12" y="-10"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_ZVwiOFomEfG_L_83WLOpSQ" type="6003">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZVwiOVomEfG_L_83WLOpSQ" x="6" y="-11"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZVwiOVomEfG_L_83WLOpSQ" x="-6" y="-11"/>
           </children>
           <styles xmi:type="notation:ConnectorStyle" xmi:id="_ZVwiMVomEfG_L_83WLOpSQ" routing="Rectilinear"/>
           <styles xmi:type="notation:FontStyle" xmi:id="_ZVwiMlomEfG_L_83WLOpSQ" fontName="Segoe UI" fontHeight="8"/>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ZVwiM1omEfG_L_83WLOpSQ" points="[-7, -9, 248, 283]$[-7, -274, 248, 18]$[-242, -274, 13, 18]"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ZVwiM1omEfG_L_83WLOpSQ" points="[-7, -9, 248, 198]$[-7, -189, 248, 18]$[-242, -189, 13, 18]"/>
           <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ZVxJQFomEfG_L_83WLOpSQ" id="(1.0,0.45)"/>
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ZVxJQVomEfG_L_83WLOpSQ" id="(0.35,0.0)"/>
         </edges>
@@ -4509,33 +4582,33 @@
         </edges>
         <edges xmi:type="notation:Edge" xmi:id="_x12z4FomEfG_L_83WLOpSQ" type="4001" element="_x1fnhFomEfG_L_83WLOpSQ" source="_mKjHgFofEfG_L_83WLOpSQ" target="_poiRUFofEfG_L_83WLOpSQ">
           <children xmi:type="notation:Node" xmi:id="_x12z5FomEfG_L_83WLOpSQ" type="6001">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_x12z5VomEfG_L_83WLOpSQ" x="25" y="18"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_x12z5VomEfG_L_83WLOpSQ" x="48" y="-15"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_x12z5lomEfG_L_83WLOpSQ" type="6002">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_x12z51omEfG_L_83WLOpSQ" x="74" y="2"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_x12z51omEfG_L_83WLOpSQ" x="80" y="2"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_x12z6FomEfG_L_83WLOpSQ" type="6003">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_x12z6VomEfG_L_83WLOpSQ" x="-14" y="1"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_x12z6VomEfG_L_83WLOpSQ" x="-24" y="1"/>
           </children>
           <styles xmi:type="notation:ConnectorStyle" xmi:id="_x12z4VomEfG_L_83WLOpSQ" routing="Rectilinear"/>
           <styles xmi:type="notation:FontStyle" xmi:id="_x12z4lomEfG_L_83WLOpSQ" fontName="Segoe UI" fontHeight="8"/>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_x12z41omEfG_L_83WLOpSQ" points="[0, 12, -392, -1]$[392, 12, 0, -1]"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_x12z41omEfG_L_83WLOpSQ" points="[0, 0, -387, -3]$[387, 0, 0, -3]"/>
           <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_x13a8FomEfG_L_83WLOpSQ" id="(1.0,0.1)"/>
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_x13a8VomEfG_L_83WLOpSQ" id="(0.0,0.6)"/>
         </edges>
         <edges xmi:type="notation:Edge" xmi:id="_LhjWAFonEfG_L_83WLOpSQ" type="4001" element="_LhK7gFonEfG_L_83WLOpSQ" source="_poiRVVofEfG_L_83WLOpSQ" target="_dU-N8FofEfG_L_83WLOpSQ">
           <children xmi:type="notation:Node" xmi:id="_Lhj9EFonEfG_L_83WLOpSQ" type="6001">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Lhj9EVonEfG_L_83WLOpSQ" x="-84" y="35"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Lhj9EVonEfG_L_83WLOpSQ" x="-81" y="35"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_Lhj9ElonEfG_L_83WLOpSQ" type="6002">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Lhj9E1onEfG_L_83WLOpSQ" x="-8" y="9"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Lhj9E1onEfG_L_83WLOpSQ" x="-7" y="9"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_Lhj9FFonEfG_L_83WLOpSQ" type="6003">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Lhj9FVonEfG_L_83WLOpSQ" x="-39" y="9"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Lhj9FVonEfG_L_83WLOpSQ" x="-40" y="9"/>
           </children>
           <styles xmi:type="notation:ConnectorStyle" xmi:id="_LhjWAVonEfG_L_83WLOpSQ" routing="Rectilinear"/>
           <styles xmi:type="notation:FontStyle" xmi:id="_LhjWAlonEfG_L_83WLOpSQ" fontName="Segoe UI" fontHeight="8"/>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_LhjWA1onEfG_L_83WLOpSQ" points="[0, 0, -348, -98]$[151, 0, -197, -98]$[151, 96, -197, -2]$[348, 96, 0, -2]"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_LhjWA1onEfG_L_83WLOpSQ" points="[0, 0, -348, -93]$[151, 0, -197, -93]$[151, 91, -197, -2]$[348, 91, 0, -2]"/>
           <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Lhj9FlonEfG_L_83WLOpSQ" id="(1.0,0.6)"/>
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Lhj9F1onEfG_L_83WLOpSQ" id="(0.0,0.4)"/>
         </edges>
@@ -4695,28 +4768,28 @@
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.IBD']/@defaultLayer/@containerMappings[name='IBD.Config']/@subNodeMappings[name='IBD.Component%20']"/>
       </ownedDiagramElements>
-      <ownedDiagramElements xmi:type="diagram:DNode" uid="_dUqr9lofEfG_L_83WLOpSQ" name="&lt;&lt;component>>&#xA;Aas:AuthorizationServerCP [1..1]" width="15" height="7" resizeKind="NSEW">
-        <target xmi:type="sysadl:ComponentUse" href="HotelAccessSystem.sysadl#//@packages[name='HotelAccessSystemComponents']/@definitions[name='HotelAccessSystemCP']/@composite/@components[name='Aas']"/>
-        <semanticElements xmi:type="sysadl:ComponentUse" href="HotelAccessSystem.sysadl#//@packages[name='HotelAccessSystemComponents']/@definitions[name='HotelAccessSystemCP']/@composite/@components[name='Aas']"/>
+      <ownedDiagramElements xmi:type="diagram:DNode" uid="_dUqr9lofEfG_L_83WLOpSQ" name="&lt;&lt;component>>&#xA;as:AuthorizationServerCP [1..1]" width="15" height="7" resizeKind="NSEW">
+        <target xmi:type="sysadl:ComponentUse" href="HotelAccessSystem.sysadl#//@packages[name='HotelAccessSystemComponents']/@definitions[name='HotelAccessSystemCP']/@composite/@components[name='as']"/>
+        <semanticElements xmi:type="sysadl:ComponentUse" href="HotelAccessSystem.sysadl#//@packages[name='HotelAccessSystemComponents']/@definitions[name='HotelAccessSystemCP']/@composite/@components[name='as']"/>
         <ownedBorderedNodes xmi:type="diagram:DNode" uid="_dUrTAlofEfG_L_83WLOpSQ" name="asRequestIn : AccessRequestIPT" incomingEdges="_Pv1w2FomEfG_L_83WLOpSQ" width="2" height="2" resizeKind="NSEW">
-          <target xmi:type="sysadl:PortUse" href="HotelAccessSystem.sysadl#//@packages[name='HotelAccessSystemComponents']/@definitions[name='HotelAccessSystemCP']/@composite/@components[name='Aas']/@ports[name='asRequestIn']"/>
-          <semanticElements xmi:type="sysadl:PortUse" href="HotelAccessSystem.sysadl#//@packages[name='HotelAccessSystemComponents']/@definitions[name='HotelAccessSystemCP']/@composite/@components[name='Aas']/@ports[name='asRequestIn']"/>
+          <target xmi:type="sysadl:PortUse" href="HotelAccessSystem.sysadl#//@packages[name='HotelAccessSystemComponents']/@definitions[name='HotelAccessSystemCP']/@composite/@components[name='as']/@ports[name='asRequestIn']"/>
+          <semanticElements xmi:type="sysadl:PortUse" href="HotelAccessSystem.sysadl#//@packages[name='HotelAccessSystemComponents']/@definitions[name='HotelAccessSystemCP']/@composite/@components[name='as']/@ports[name='asRequestIn']"/>
           <ownedStyle xmi:type="diagram:Square" uid="_dUrTA1ofEfG_L_83WLOpSQ" showIcon="false" width="2" height="2" color="204,242,166">
             <description xmi:type="style:SquareDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.IBD']/@defaultLayer/@containerMappings[name='IBD.Config']/@subNodeMappings[name='IBD.Component%20']/@borderedNodeMappings[name='IBD.Component.PortUse']/@style"/>
           </ownedStyle>
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.IBD']/@defaultLayer/@containerMappings[name='IBD.Config']/@subNodeMappings[name='IBD.Component%20']/@borderedNodeMappings[name='IBD.Component.PortUse']"/>
         </ownedBorderedNodes>
         <ownedBorderedNodes xmi:type="diagram:DNode" uid="_dUrTBVofEfG_L_83WLOpSQ" name="asProfileIn : GuestProfileIPT" incomingEdges="_LhK7gFonEfG_L_83WLOpSQ" width="2" height="2" resizeKind="NSEW">
-          <target xmi:type="sysadl:PortUse" href="HotelAccessSystem.sysadl#//@packages[name='HotelAccessSystemComponents']/@definitions[name='HotelAccessSystemCP']/@composite/@components[name='Aas']/@ports[name='asProfileIn']"/>
-          <semanticElements xmi:type="sysadl:PortUse" href="HotelAccessSystem.sysadl#//@packages[name='HotelAccessSystemComponents']/@definitions[name='HotelAccessSystemCP']/@composite/@components[name='Aas']/@ports[name='asProfileIn']"/>
+          <target xmi:type="sysadl:PortUse" href="HotelAccessSystem.sysadl#//@packages[name='HotelAccessSystemComponents']/@definitions[name='HotelAccessSystemCP']/@composite/@components[name='as']/@ports[name='asProfileIn']"/>
+          <semanticElements xmi:type="sysadl:PortUse" href="HotelAccessSystem.sysadl#//@packages[name='HotelAccessSystemComponents']/@definitions[name='HotelAccessSystemCP']/@composite/@components[name='as']/@ports[name='asProfileIn']"/>
           <ownedStyle xmi:type="diagram:Square" uid="_dUr6EFofEfG_L_83WLOpSQ" showIcon="false" width="2" height="2" color="204,242,166">
             <description xmi:type="style:SquareDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.IBD']/@defaultLayer/@containerMappings[name='IBD.Config']/@subNodeMappings[name='IBD.Component%20']/@borderedNodeMappings[name='IBD.Component.PortUse']/@style"/>
           </ownedStyle>
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.IBD']/@defaultLayer/@containerMappings[name='IBD.Config']/@subNodeMappings[name='IBD.Component%20']/@borderedNodeMappings[name='IBD.Component.PortUse']"/>
         </ownedBorderedNodes>
         <ownedBorderedNodes xmi:type="diagram:DNode" uid="_dUr6ElofEfG_L_83WLOpSQ" name="asResponseOut : AccessResponseOPT" outgoingEdges="_ZVXgrFomEfG_L_83WLOpSQ" width="2" height="2" resizeKind="NSEW">
-          <target xmi:type="sysadl:PortUse" href="HotelAccessSystem.sysadl#//@packages[name='HotelAccessSystemComponents']/@definitions[name='HotelAccessSystemCP']/@composite/@components[name='Aas']/@ports[name='asResponseOut']"/>
-          <semanticElements xmi:type="sysadl:PortUse" href="HotelAccessSystem.sysadl#//@packages[name='HotelAccessSystemComponents']/@definitions[name='HotelAccessSystemCP']/@composite/@components[name='Aas']/@ports[name='asResponseOut']"/>
+          <target xmi:type="sysadl:PortUse" href="HotelAccessSystem.sysadl#//@packages[name='HotelAccessSystemComponents']/@definitions[name='HotelAccessSystemCP']/@composite/@components[name='as']/@ports[name='asResponseOut']"/>
+          <semanticElements xmi:type="sysadl:PortUse" href="HotelAccessSystem.sysadl#//@packages[name='HotelAccessSystemComponents']/@definitions[name='HotelAccessSystemCP']/@composite/@components[name='as']/@ports[name='asResponseOut']"/>
           <ownedStyle xmi:type="diagram:Square" uid="_dUr6E1ofEfG_L_83WLOpSQ" showIcon="false" width="2" height="2" color="204,242,166">
             <description xmi:type="style:SquareDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.IBD']/@defaultLayer/@containerMappings[name='IBD.Config']/@subNodeMappings[name='IBD.Component%20']/@borderedNodeMappings[name='IBD.Component.PortUse']/@style"/>
           </ownedStyle>
