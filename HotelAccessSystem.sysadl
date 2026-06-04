@@ -224,22 +224,30 @@ package HotelAccessSystemComponents {
     body {
       actions :
         fwd  : ForwardResponseAN  { using pins : response : AccessResponse ; }
-        rtas : RouteToASAN        { using pins : rtasReq : AccessRequest ; rtasStatus : Status ; }
-        rtbs : RouteToBackupAN    { using pins : rtbsReq : AccessRequest ; rtbsStatus : Status ; }
-      delegate request    to rtasReq
+        
+        rtbs : RouteToBackupAN    { using pins : rtbsReq : AccessRequest ; rtbsStatus : Status ; } dtf : DetectFailoverAN { using pins : dfStatus : Status ; dfRequest : AccessRequest ; }
       delegate request    to rtbsReq
       delegate asResponse to response
       delegate bsResponse to response
-      delegate asRequest  to rtas
+      
       delegate bsRequest  to rtbs
       delegate response   to fwd
-      delegate status     to rtasStatus
+      
       delegate status     to rtbsStatus
+    delegate status to dfStatus
+      
+      delegate      request to dfRequest
+      delegate asRequest to dtf
     }
   }
 
-  action def RouteToASAN     ( rtasReq : AccessRequest , rtasStatus : Status ) : AccessRequest { }
-  action def RouteToBackupAN ( rtbsReq : AccessRequest , rtbsStatus : Status ) : AccessRequest { }
+  
+  action def RouteToBackupAN ( rtbsReq : AccessRequest , rtbsStatus : Status ) : AccessRequest {
+  constraint : post-condition RouteToBackupEQ
+delegate rtbsReq to rtbsReq delegate rtbsStatus to rtbsStatus delegate RouteToBackupAN to rtbsResult }
+constraint RouteToBackupEQ ( rtbsReq : AccessRequest , rtbsStatus : Status ) : ( rtbsResult : AccessRequest ) {
+  equation = "rtbsResult = (rtbsStatus == DOWN) ? rtbsReq : null"
+}
 
   action def ProcessAccessAN ( procWristband : WristbandID ) : AccessRequest {
     constraint : post-condition ProcessAccessEQ
@@ -269,8 +277,12 @@ package HotelAccessSystemComponents {
   equation = "acRequest = procWristband"
 }
 
-}
-
+action def DetectFailoverAN ( dfStatus : Status , dfRequest : AccessRequest ) : AccessRequest {
+  constraint : post-condition DetectFailoverEQ
+delegate DetectFailoverAN to dfResult delegate dfStatus to dfStatus delegate dfRequest to dfRequest }
+constraint DetectFailoverEQ ( dfStatus : Status , dfRequest : AccessRequest ) : ( dfResult : AccessRequest ) {
+  equation = "dfResult = (dfStatus == UP) ? dfRequest : null"
+}}
 package HotelAccessSystemConnectors {
   import HotelAccessSystemPorts ;
   connector def WristbandReadCN {
